@@ -23,10 +23,12 @@ description: We investigate acoustic parameters of positive emotions
 
 # List of links in the navigation bar
 navbar-links:
-  About the Research: "About the Research"
-  Positive Emotion Maps:
+  
+  Emotion 
+  Networks:
     - Emotion Terms : "https://graphcommons.com/graphs/a85e068b-1f6f-44ab-8fa7-2621ba1f2971"
     - Literature: "https://graphcommons.com/graphs/f81358c7-b027-4e2e-ac36-17d671d87869"
+  About the Research: "About"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
