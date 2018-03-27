@@ -27,11 +27,11 @@ navbar-links:
   Positive Emotion Maps:
     - Emotion Terms : "https://graphcommons.com/graphs/a85e068b-1f6f-44ab-8fa7-2621ba1f2971"
     - Literature: "https://graphcommons.com/graphs/f81358c7-b027-4e2e-ac36-17d671d87869"
-  Research center: "http://aice.uva.nl"
+  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatarear.jpg"
+avatar: "/img/avatarlaughter.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
