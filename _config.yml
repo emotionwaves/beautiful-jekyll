@@ -27,10 +27,10 @@ navbar-links:
   
   Acoustics:
   Positive Emotions:
-  Networks:
+  Literature:
     - Literature on Acoustics of Positive Emotions: "https://graphcommons.com/graphs/f81358c7-b027-4e2e-ac36-17d671d87869"
-    - Acoustics of Positive Emotions in Literature : "sd"
-    - Positive Emotion Terms in Literature: "https://graphcommons.com/graphs/a85e068b-1f6f-44ab-8fa7-2621ba1f2971"
+    - Network of Acoustics: "sd"
+    - Network of Positive Emotion Terms: "https://graphcommons.com/graphs/a85e068b-1f6f-44ab-8fa7-2621ba1f2971"
     
     
   About: "aboutme"
