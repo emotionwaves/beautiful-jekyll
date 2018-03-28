@@ -143,13 +143,13 @@ title-separator: "-"
 
 # Output options (more information on Jekyll's site)
 #timezone: "America/Vancouver"
-#markdown: kramdown
-#highlighter: rouge
+markdown: kramdown
+highlighter: rouge
 #permalink: /:year-:month-:day-:title/
-#paginate: 5
+paginate: 5
 
-#kramdown:
-  #input: GFM
+kramdown:
+  input: GFM
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
