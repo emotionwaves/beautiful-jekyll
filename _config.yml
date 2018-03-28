@@ -17,7 +17,7 @@ baseurl: ""
 title: Research on Emotional Vocalizations 
 
 # Short description of your site
-description: We investigate acoustic parameters of positive emotions
+description: Acoustics of Positive Emotions
 
 # --- Navigation bar options --- #
 
@@ -42,11 +42,11 @@ avatar: "/img/avatarlaughter.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#ffebcd"
+navbar-col: "#fff8dc"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#fff8dc"
+link-col: "#ffebcd"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
