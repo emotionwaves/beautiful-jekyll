@@ -25,7 +25,7 @@ description: Acoustics of Positive Emotions
 # List of links in the navigation bar
 navbar-links:
   
-  Positive Emotions:
+  Positive Emotions:"pe"
   Acoustics:
   Literature:
     - Literature on Acoustics of Positive Emotions: "https://graphcommons.com/graphs/f81358c7-b027-4e2e-ac36-17d671d87869"
