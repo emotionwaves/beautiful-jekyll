@@ -26,7 +26,9 @@ description: Acoustics of Positive Emotions
 navbar-links:
   
   Positive Emotions: "pe"
-  Acoustics: "acoustics"
+  Acoustics: 
+    - Descriptions: " "
+    - Example Vocalizations: "https://emotionwaves.github.io/acoustics/"
   Literature:
     - Literature on Acoustics of Positive Emotions: "https://graphcommons.com/graphs/f81358c7-b027-4e2e-ac36-17d671d87869"
     - Network of Positive Emotion Terms: "https://graphcommons.com/graphs/a85e068b-1f6f-44ab-8fa7-2621ba1f2971"
