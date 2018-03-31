@@ -33,7 +33,7 @@ google-plus:
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+  baseURL: "mailto:r.g.kamiloglu@uva.nl"
   icon: "fa-envelope"
 
 linkedin:
