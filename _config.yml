@@ -78,9 +78,9 @@ author:
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-# social-network-links:
-# rss: true
-  # email: "rozagizem@gmail.com"
+social-network-links:
+ rss: true
+ email: "rozagizem@gmail.com"
 #  facebook: daattali
 #  github: daattali
  # twitter: daattali
@@ -169,6 +169,7 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+      social-share: true
 
 # Use tags index page and make tags on each post clickable
 link-tags: false
