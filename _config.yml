@@ -78,9 +78,9 @@ author:
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links:
-rss: true
-  email: "rozagizem@gmail.com"
+# social-network-links:
+# rss: true
+  # email: "rozagizem@gmail.com"
 #  facebook: daattali
 #  github: daattali
  # twitter: daattali
@@ -99,11 +99,11 @@ rss: true
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  google: true
-  linkedin: true
+# share-links-active:
+  # twitter: true
+  # facebook: true
+  # google: true
+  # linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
