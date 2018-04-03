@@ -8,10 +8,14 @@ layout: null
 
 body {
   @font-face {
+  font-family: "urban";
+  src: url("urban.ttf");
+  }
+  @font-face {
   font-family: "sound";
   src: url("sound.ttf");
   }
-  font-family: 'sound';
+  font-family: 'urban';
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -26,7 +30,7 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'sound';
+  font-family: 'urban';
   font-weight: 800;
 }
 a {
