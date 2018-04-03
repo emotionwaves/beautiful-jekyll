@@ -62,7 +62,7 @@ hr.small {
 
 .main-explain-area {
   font-family:  'sound';
-  padding: 15px inherit;
+  padding: 17px inherit;
 }
 
 .hideme {
@@ -112,7 +112,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'sound', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'sound';
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
@@ -289,7 +289,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Open Sans', 'sound', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'sound';
   text-align: center;
   margin-bottom: 0;
 }
@@ -485,7 +485,7 @@ footer .theme-by {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'sound', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'sound';
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -594,7 +594,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'sound', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'sound';
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
