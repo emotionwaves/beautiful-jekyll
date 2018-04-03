@@ -11,7 +11,7 @@ body {
   font-family: "sound";
   src: url("sound.ttf");
   }
-  font-family: 'Lora', 'sound', 'Times New Roman', serif;
+  font-family: 'sound';
   font-size: 18px;
   color: #404040;
   position: relative;
