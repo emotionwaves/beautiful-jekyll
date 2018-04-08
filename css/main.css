@@ -7,7 +7,7 @@ layout: null
 /* --- General --- */
 
 body {
-  
+  @font-face {font-family: capsuula; src: url('capsuula.ttf')};
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
@@ -109,7 +109,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'capsuula';
+  font-family: 'Open Sans';
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
