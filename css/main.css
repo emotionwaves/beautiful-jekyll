@@ -10,7 +10,6 @@ body {
   @font-face {font-family: capsuula; src: url('capsuula.ttf')};
   @font-face {font-family: Avenir; src: url('Avenir.ttf')};
   font-family: 'Avenir';
-  font-weight: 800;
   font-size: 18px;
   color: #404040;
   position: relative;
