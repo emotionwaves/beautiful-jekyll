@@ -11,7 +11,7 @@ body {
   @font-face {font-family: Avenir; src: url('Avenir.ttf')};
   font-family: 'Avenir';
   font-size: 18px;
-  color: #535353;
+  color: #3f3e3e;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
