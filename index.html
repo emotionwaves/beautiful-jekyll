@@ -30,5 +30,12 @@ To see the definitions and examples, click the <a href="https://emotionwaves.git
 <br>
 Research outputs will be listed below as they are published.
 
-
+# Allow access from all domains for webfonts.
+# Alternatively you could only whitelist your
+# subdomains like "subdomain.example.com".
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|ttc|otf|eot|woff|font.css|css)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
 
