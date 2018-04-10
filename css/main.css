@@ -25,7 +25,7 @@ body {
  
   font-family: 'RopaSans-Regular';
   font-size: 18px;
-  color: #3f3e3e;
+  color: #727070;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
