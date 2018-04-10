@@ -7,13 +7,13 @@ layout: null
 /* --- General --- */
 
 body {
-  @font-face {font-family: capsuula; 
-    src: url('capsuula.ttf') format('truetype'),
-    src: url('capsuula.svg#capsuula') format('svg')
-    src: url('capsuula.otf') format('opentype'),
-    src: url('capsuula.woff') format('woff'), 
-    src: url('capsuula.eot') format('embedded-opentype');
-    src: url('capsuula.woff2') format('woff2')};
+  @font-face {font-family: Capsuula; 
+    src: url('Capsuula.ttf') format('truetype'),
+    src: url('Capsuula.svg#capsuula') format('svg')
+    src: url('Capsuula.otf') format('opentype'),
+    src: url('Capsuula.woff') format('woff'), 
+    src: url('Capsuula.eot') format('embedded-opentype');
+    src: url('Capsuula.woff2') format('woff2')};
    
   @font-face {font-family: Avenir; 
     src: url('Avenir.ttf') format('truetype'),
@@ -38,7 +38,7 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'capsuula';
+  font-family: 'Capsuula';
   font-weight: 800;
 }
 a {
