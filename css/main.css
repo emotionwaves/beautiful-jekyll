@@ -15,15 +15,15 @@ body {
     src: url('css/Capsuula.eot') format('embedded-opentype');
    }
    
-  @font-face {font-family: 'Muli-Light'; 
-    src: url('css/Muli-Light.ttf') format('truetype'),
-    src: url('css/Muli-Light.svg#Muli-Light') format('svg'),
-    src: url('css/Muli-Light.otf') format('opentype'),
-    src: url('css/Muli-Light.woff') format('woff'), 
-    src: url('css/Muli-Light.eot') format('embedded-opentype');
+  @font-face {font-family: 'NewCicle-Fina'; 
+    src: url('css/NewCicle-Fina.ttf') format('truetype'),
+    src: url('css/NewCicle-Fina.svg#Muli-Light') format('svg'),
+    src: url('css/NewCicle-Fina.otf') format('opentype'),
+    src: url('css/NewCicle-Fina.woff') format('woff'), 
+    src: url('css/NewCicle-Fina.eot') format('embedded-opentype');
     }
  
-  font-family: 'Muli-Light';
+  font-family: 'NewCicle-Fina';
   font-size: 18px;
   color: #3f3e3e;
   position: relative;
@@ -73,7 +73,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Muli-Light';
+  font-family: 'NewCicle-Fina';
   padding: 15px inherit;
 }
 
@@ -522,7 +522,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Muli-Light';
+  font-family: 'NewCicle-Fina';
   right: 0;
   bottom: 0;
   display: none;
