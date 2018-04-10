@@ -20,7 +20,7 @@ body {
     src: url('AntigoniLight.svg#AntigoniLight') format('svg'),
     src: url('AntigoniLight.otf') format('opentype'),
     src: url('AntigoniLight.woff') format('woff'), 
-    src: url('AntigoniLight') format('embedded-opentype');
+    src: url('AntigoniLight.eot') format('embedded-opentype');
     }
  
   font-family: 'AntigoniLight';
