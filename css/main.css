@@ -8,7 +8,7 @@ layout: null
 
 body {
   @font-face {font-family: capsuula; 
-    src: url('capsuula.ttf'), 
+    src: url('capsuula.ttf') format('truetype'), 
     src: url('capsuula.woff') format('woff'), 
     src: url('capsuula.woff2') format('woff2')};
    
