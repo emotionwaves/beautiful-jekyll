@@ -7,21 +7,21 @@ layout: null
 /* --- General --- */
 
 body {
-  @font-face {font-family: Capsuula; 
+  @font-face {font-family: 'Capsuula'; 
     src: url('Capsuula.ttf') format('truetype'),
-    src: url('Capsuula.svg#Capsuula') format('svg')
+    src: url('Capsuula.svg#Capsuula') format('svg'),
     src: url('Capsuula.otf') format('opentype'),
     src: url('Capsuula.woff') format('woff'), 
     src: url('Capsuula.eot') format('embedded-opentype');
-    src: url('Capsuula.woff2') format('woff2')};
+   }
    
-  @font-face {font-family: AvenirLTStd-Book; 
+  @font-face {font-family: 'AvenirLTStd-Book'; 
     src: url('AvenirLTStd-Book.ttf') format('truetype'),
-    src: url('AvenirLTStd-Book.svg#AvenirLTStd-Book') format('svg')
+    src: url('AvenirLTStd-Book.svg#AvenirLTStd-Book') format('svg'),
     src: url('AvenirLTStd-Book.otf') format('opentype'),
     src: url('AvenirLTStd-Book.woff') format('woff'), 
     src: url('AvenirLTStd-Book.eot') format('embedded-opentype');
-    src: url('AvenirLTStd-Book.woff2') format('woff2')};
+    }
  
   font-family: 'AvenirLTStd-Book';
   font-size: 18px;
