@@ -17,7 +17,7 @@ body {
    
   @font-face {font-family: 'NewCicle-Fina'; 
     src: url('css/NewCicle-Fina.ttf') format('truetype'),
-    src: url('css/NewCicle-Fina.svg#Muli-Light') format('svg'),
+    src: url('css/NewCicle-Fina.svg#NewCicle-Fina') format('svg'),
     src: url('css/NewCicle-Fina.otf') format('opentype'),
     src: url('css/NewCicle-Fina.woff') format('woff'), 
     src: url('css/NewCicle-Fina.eot') format('embedded-opentype');
@@ -124,7 +124,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Muli-Light';
+  font-family: 'NewCicle-Fina';
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
@@ -301,7 +301,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'Muli-Light';
+  font-family: 'NewCicle-Fina';
   text-align: center;
   margin-bottom: 0;
 }
@@ -497,7 +497,7 @@ footer .theme-by {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Muli-Light';
+  font-family: 'NewCicle-Fina';
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -606,7 +606,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Muli-Light';
+  font-family: 'NewCicle-Fina';
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
