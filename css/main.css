@@ -15,15 +15,15 @@ body {
     src: url('Capsuula.eot') format('embedded-opentype');
    }
    
-  @font-face {font-family: 'AvenirLTStd-Book'; 
-    src: url('AvenirLTStd-Book.ttf') format('truetype'),
-    src: url('AvenirLTStd-Book.svg#AvenirLTStd-Book') format('svg'),
-    src: url('AvenirLTStd-Book.otf') format('opentype'),
-    src: url('AvenirLTStd-Book.woff') format('woff'), 
-    src: url('AvenirLTStd-Book.eot') format('embedded-opentype');
+  @font-face {font-family: 'AntigoniLight'; 
+    src: url('AntigoniLight.ttf') format('truetype'),
+    src: url('AntigoniLight.svg#AntigoniLight') format('svg'),
+    src: url('AntigoniLight.otf') format('opentype'),
+    src: url('AntigoniLight.woff') format('woff'), 
+    src: url('AntigoniLight') format('embedded-opentype');
     }
  
-  font-family: 'AvenirLTStd-Book';
+  font-family: 'AntigoniLight';
   font-size: 18px;
   color: #3f3e3e;
   position: relative;
@@ -124,7 +124,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'AvenirLTStd-Book';
+  font-family: 'AntigoniLight';
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
@@ -497,7 +497,7 @@ footer .theme-by {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'AvenirLTStd-Book';
+  font-family: 'AntigoniLight';
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -522,7 +522,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'AvenirLTStd-Book';
+  font-family: 'AntigoniLight';
   right: 0;
   bottom: 0;
   display: none;
@@ -606,7 +606,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'AvenirLTStd-Book';
+  font-family: 'AntigoniLight';
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
