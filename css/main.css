@@ -8,19 +8,19 @@ layout: null
 
 body {
   @font-face {font-family: 'Capsuula'; 
-    src: url('Capsuula.ttf') format('truetype'),
-    src: url('Capsuula.svg#Capsuula') format('svg'),
-    src: url('Capsuula.otf') format('opentype'),
-    src: url('Capsuula.woff') format('woff'), 
-    src: url('Capsuula.eot') format('embedded-opentype');
+    src: url('css/Capsuula.ttf') format('truetype'),
+    src: url('css/Capsuula.svg#Capsuula') format('svg'),
+    src: url('css/Capsuula.otf') format('opentype'),
+    src: url('css/Capsuula.woff') format('woff'), 
+    src: url('css/Capsuula.eot') format('embedded-opentype');
    }
    
   @font-face {font-family: 'AntigoniLight'; 
-    src: url('AntigoniLight.ttf') format('truetype'),
-    src: url('AntigoniLight.svg#AntigoniLight') format('svg'),
-    src: url('AntigoniLight.otf') format('opentype'),
-    src: url('AntigoniLight.woff') format('woff'), 
-    src: url('AntigoniLight.eot') format('embedded-opentype');
+    src: url('css/AntigoniLight.ttf') format('truetype'),
+    src: url('css/AntigoniLight.svg#AntigoniLight') format('svg'),
+    src: url('css/AntigoniLight.otf') format('opentype'),
+    src: url('css/AntigoniLight.woff') format('woff'), 
+    src: url('css/AntigoniLight.eot') format('embedded-opentype');
     }
  
   font-family: 'AntigoniLight';
