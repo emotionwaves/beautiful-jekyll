@@ -8,8 +8,11 @@ layout: null
 
 body {
   @font-face {font-family: capsuula; 
-    src: url('capsuula.ttf') format('truetype'), 
+    src: url('capsuula.ttf') format('truetype'),
+    src: url('capsuula.svg#capsuula') format('svg')
+    src: url('capsuula.otf') format('opentype'),
     src: url('capsuula.woff') format('woff'), 
+    src: url('capsuula.eot') format('embedded-opentype');
     src: url('capsuula.woff2') format('woff2')};
    
   @font-face {font-family: Avenir; src: url('Avenir.ttf')};
