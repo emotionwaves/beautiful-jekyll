@@ -15,7 +15,14 @@ body {
     src: url('capsuula.eot') format('embedded-opentype');
     src: url('capsuula.woff2') format('woff2')};
    
-  @font-face {font-family: Avenir; src: url('Avenir.ttf')};
+  @font-face {font-family: Avenir; 
+    src: url('Avenir.ttf') format('truetype'),
+    src: url('Avenir.svg#Avenir') format('svg')
+    src: url('Avenir.otf') format('opentype'),
+    src: url('Avenir.woff') format('woff'), 
+    src: url('Avenir.eot') format('embedded-opentype');
+    src: url('Avenir.woff2') format('woff2')};
+ 
   font-family: 'Avenir';
   font-size: 18px;
   color: #3f3e3e;
