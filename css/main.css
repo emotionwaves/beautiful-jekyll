@@ -15,15 +15,15 @@ body {
     src: url('css/Capsuula.eot') format('embedded-opentype');
    }
    
-  @font-face {font-family: 'AntigoniLight'; 
-    src: url('css/AntigoniLight.ttf') format('truetype'),
-    src: url('css/AntigoniLight.svg#AntigoniLight') format('svg'),
-    src: url('css/AntigoniLight.otf') format('opentype'),
-    src: url('css/AntigoniLight.woff') format('woff'), 
-    src: url('css/AntigoniLight.eot') format('embedded-opentype');
+  @font-face {font-family: 'Muli-Light'; 
+    src: url('css/Muli-Light.ttf') format('truetype'),
+    src: url('css/Muli-Light.svg#Muli-Light') format('svg'),
+    src: url('css/Muli-Light.otf') format('opentype'),
+    src: url('css/Muli-Light.woff') format('woff'), 
+    src: url('css/Muli-Light.eot') format('embedded-opentype');
     }
  
-  font-family: 'AntigoniLight';
+  font-family: 'Muli-Light';
   font-size: 18px;
   color: #3f3e3e;
   position: relative;
@@ -73,7 +73,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'AvenirLTStd-Book';
+  font-family: 'Muli-Light';
   padding: 15px inherit;
 }
 
@@ -124,7 +124,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'AntigoniLight';
+  font-family: 'Muli-Light';
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
@@ -301,7 +301,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: 'AvenirLTStd-Book';
+  font-family: 'Muli-Light';
   text-align: center;
   margin-bottom: 0;
 }
@@ -497,7 +497,7 @@ footer .theme-by {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'AntigoniLight';
+  font-family: 'Muli-Light';
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -522,7 +522,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'AntigoniLight';
+  font-family: 'Muli-Light';
   right: 0;
   bottom: 0;
   display: none;
@@ -606,7 +606,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'AntigoniLight';
+  font-family: 'Muli-Light';
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
