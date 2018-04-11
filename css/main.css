@@ -7,19 +7,19 @@ layout: null
 /* --- General --- */
 
 @font-face {font-family: Capsuula; 
-    src: local(Capsuula), url('Capsuula.ttf') format('truetype'),
-    src: local(Capsuula), url('Capsuula.svg#Capsuula') format('svg'),
-    src: local(Capsuula), url('Capsuula.otf') format('opentype'),
-    src: local(Capsuula), url('Capsuula.woff') format('woff'), 
-    src: local(Capsuula), url('Capsuula.eot') format('embedded-opentype');
+    src: url('Capsuula.ttf') format('truetype'),
+         url('Capsuula.svg#Capsuula') format('svg'),
+         url('Capsuula.otf') format('opentype'),
+         url('Capsuula.woff') format('woff'), 
+         url('Capsuula.eot') format('embedded-opentype');
    }
    
   @font-face {font-family: RopaSans-Regular; 
-    src: local(RopaSans-Regular), url('RopaSans-Regular.ttf') format('truetype'),
-    src: local(RopaSans-Regular), url('RopaSans-Regular.svg#RopaSans-Regular') format('svg'),
-    src: local(RopaSans-Regular), url('RopaSans-Regular.otf') format('opentype'),
-    src: local(RopaSans-Regular), url('RopaSans-Regular.woff') format('woff'), 
-    src: local(RopaSans-Regular), url('RopaSans-Regular.eot') format('embedded-opentype');
+    src: url('RopaSans-Regular.ttf') format('truetype'),
+         url('RopaSans-Regular.svg#RopaSans-Regular') format('svg'),
+         url('RopaSans-Regular.otf') format('opentype'),
+         url('RopaSans-Regular.woff') format('woff'), 
+         url('RopaSans-Regular.eot') format('embedded-opentype');
     }
 
 body {
