@@ -6,8 +6,7 @@ layout: null
 
 /* --- General --- */
 
-body {
-  @font-face {font-family: Capsuula; 
+@font-face {font-family: Capsuula; 
     src: local(Capsuula), url('Capsuula.ttf') format('truetype'),
     src: local(Capsuula), url('Capsuula.svg#Capsuula') format('svg'),
     src: local(Capsuula), url('Capsuula.otf') format('opentype'),
@@ -22,7 +21,8 @@ body {
     src: local(RopaSans-Regular), url('RopaSans-Regular.woff') format('woff'), 
     src: local(RopaSans-Regular), url('RopaSans-Regular.eot') format('embedded-opentype');
     }
- 
+
+body {
   font-family: 'RopaSans-Regular';
   font-size: 18px;
   color: #3f3d3d;
