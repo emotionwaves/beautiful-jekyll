@@ -35,7 +35,9 @@ navbar-links:
     - Network of Positive Emotion Terms: "https://graphcommons.com/graphs/a85e068b-1f6f-44ab-8fa7-2621ba1f2971"
     - Network of Acoustics: "https://graphcommons.com/graphs/5bb0001b-1049-488d-9396-3eaf2384c7fe"
   Visuals: 
-    -Context: "visuals" 
+    - Context: "context" 
+    - Arousal: "arousal"
+    - Valence: "valence"
   About: "aboutme"
   
 
