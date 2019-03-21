@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Positive Emotions
+title: Emotions
 subtitle: Under Construction
 ---
