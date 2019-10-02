@@ -25,7 +25,6 @@ description: Acoustics of Positive Emotions
 # List of links in the navigation bar
 navbar-links:
   
-  Emotions: "pe"
   Acoustics: 
     - Examples of Acoustics in Vocalizations: "https://emotionwaves.github.io/acoustics/"
     - Examples of Resynthesized Vocalizations: "resynthesized"
