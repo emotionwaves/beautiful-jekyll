@@ -26,8 +26,8 @@ description: Acoustics of Positive Emotions
 navbar-links:
   
   Acoustics: 
-    - Examples of Acoustics in Vocalizations: "https://emotionwaves.github.io/acoustics/"
-    - Examples of Resynthesized Vocalizations: "resynthesized"
+    - Examples of Acoustics in Vocalisations: "https://emotionwaves.github.io/acoustics/"
+    - Examples of Resynthesized Vocalisations: "resynthesized"
   Visuals: 
     - Context: "context" 
     - Arousal: "arousal"
