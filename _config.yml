@@ -33,7 +33,7 @@ navbar-links:
     - Arousal: "arousal"
     - Valence: "valence"
     - Posed14: "posed14"
-    - Spontaneous14: "spon14"
+    - Spontaneous14: "spontaneous14"
   # About: "aboutme"
   
 
