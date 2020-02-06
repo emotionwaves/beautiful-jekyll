@@ -32,6 +32,8 @@ navbar-links:
     - Context: "context" 
     - Arousal: "arousal"
     - Valence: "valence"
+    - Posed14: "posed14"
+    - Spontaneous14: "spon14"
   # About: "aboutme"
   
 
