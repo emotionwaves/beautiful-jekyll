@@ -28,6 +28,7 @@ navbar-links:
   Acoustics: 
     - Examples of Acoustics in Vocalisations: "https://emotionwaves.github.io/acoustics/"
     - Examples of Resynthesized Vocalisations: "resynthesized"
+    - Examples of Chimp Vocalisations: "chimp"
   Visuals: 
     - Context: "context" 
     - Arousal: "arousal"
