@@ -35,7 +35,7 @@ navbar-links:
     - Valence: "valence"
     - Posed14: "posed14"
     - Spontaneous14: "spontaneous14"
-   Vocalisations:
+  Vocalisations:
     - Dutch22: "dutch22" 
     - Chinese22: "chinese22"
   # About: "aboutme"
