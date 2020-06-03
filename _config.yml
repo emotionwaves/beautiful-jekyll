@@ -1,5 +1,6 @@
 # --- General options --- #
-
+runtime: shiny
+output: html_document
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -39,6 +40,7 @@ navbar-links:
     - Dutch22: "dutch22" 
     - Chinese22: "chinese22"
     - BehaviouralContexts: "BehaviouralContexts"
+    - Shiny: "Shiny"
   # About: "aboutme"
   
 
